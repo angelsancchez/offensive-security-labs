@@ -1,4 +1,4 @@
-# Security Labs
+# Perfil enfocado a SOC / Blue Team con base en seguridad ofensiva
 
 Repositorio de prácticas de ciberseguridad centrado en la resolución de laboratorios y elaboración de informes técnicos.
 
